@@ -1,0 +1,45 @@
+Menaka M
+Email: menaka092006@gmail.com
+Phone: +91 6379727171
+LinkedIn: https://www.linkedin.com/in/menaka-m-788844296
+GitHub: https://github.com/Menaka11
+
+Career Objective:
+Aspiring Software Developer with strong foundations in Java, Python, and Data Structures, experienced in building full-stack and AI-based applications. Passionate about developing scalable and user-friendly solutions.
+
+Education:
+B.E. Computer Science and Engineering
+Rathinam Technical Campus, Coimbatore
+CGPA: 8.20 (2023 - Present)
+
+Higher Secondary
+Oxford Matric Hr Sec School, Tenkasi
+Percentage: 83.83% (2022 - 2023)
+
+Technical Skills:
+Programming Languages: Python, Java
+Core Concepts: Data Structures and Algorithms
+Web Technologies: HTML, CSS
+Database: PostgreSQL
+Tools and Technologies: Power BI, n8n
+APIs and Frameworks: REST API Development, OpenAI API, Claude API
+
+Projects:
+
+AI Resume Assistant (RAG-based Application):
+Developed an AI-powered resume assistant using LangChain and FAISS for semantic search and information retrieval.
+Implemented text chunking, embeddings, and similarity search to analyze resume-job relevance and answer user queries.
+
+Teams Accessibility Tool (Full Stack Web Application):
+Developed a real-time accessibility tool for Microsoft Teams using Web Speech API for speech-to-text captions.
+Designed a responsive user interface and optimized API usage to reduce operational costs.
+
+Internship Experience:
+
+Data Analyst Intern – InternBoot (Sep 2025 - Nov 2025):
+Processed and analyzed datasets using Python (NumPy, Pandas) to extract insights.
+Built interactive dashboards using Power BI for data visualization and reporting.
+
+Certifications:
+Introduction to Java – DataCamp
+Introduction to PostgreSQL – Great Learning
