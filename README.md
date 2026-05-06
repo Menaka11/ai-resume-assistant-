@@ -43,7 +43,3 @@ python app.py
 * Add Streamlit UI
 * Add job description matching
 * Use advanced embeddings (FAISS)
-
-## 👩‍💻 Author
-
-Menaka M
